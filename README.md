@@ -21,10 +21,6 @@ Always learning 📚, building 🛠️, and collaborating 🌍 on cutting-edge p
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
 
-## My Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muthj13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muthj13&theme=github-compact&days=40&from=2024-05-05&grid=true&radius=16&to=2024-06-06)](https://github.com/ashutosh00710/github-readme-activity-graph)
