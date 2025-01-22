@@ -31,8 +31,8 @@ Always learning 📚, building 🛠️, and collaborating 🌍 on cutting-edge p
 
 ## Badges
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white&shape=round)  
-![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow?style=for-the-badge&logo=github&logoColor=white&shape=round)  
-![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue?style=for-the-badge&logo=github&logoColor=white&shape=round)  
-![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red?style=for-the-badge&logo=github&logoColor=white&shape=round)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-42.2M-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white&shape=round)  
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-231-yellow?style=for-the-badge&logo=github&logoColor=white&shape=round)  
+![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-155-blue?style=for-the-badge&logo=github&logoColor=white&shape=round)  
+![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-253-red?style=for-the-badge&logo=github&logoColor=white&shape=round)
 
